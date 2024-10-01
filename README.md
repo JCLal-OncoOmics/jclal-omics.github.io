@@ -1,6 +1,6 @@
 # jclal-omics.github.io
 
-# Data Scientist
+# Post-doctoral Fellow 
 
 ## Education 
 
